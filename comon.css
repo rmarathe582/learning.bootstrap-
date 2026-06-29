@@ -1,3 +1,10 @@
 .bg-45{
         background-color: rgb(45, 248, 99);
       }
+  .card:hover{
+    background-color: aqua;
+    color: black;
+  }
+  .bg-456{
+    background-color: burlywood;
+  }
